@@ -2,7 +2,7 @@
 
 exports[`snippet > 带高亮行 1`] = `
 "\`\`\`ts {1}| pure
-console.log('Hello dumi-plugin-code-snippets!');
+console.log('Hello dumi-plugin-auto-api!');
 
 export function doSomething() {
   return 1;
@@ -23,7 +23,7 @@ namespace HelloWorld
     // #region main
     static void Main(string[] args)
     {
-      Console.WriteLine(\\"Hello dumi-plugin-code-snippets!\\");
+      Console.WriteLine(\\"Hello dumi-plugin-auto-api!\\");
     }
     // #endregion main
   }
@@ -37,7 +37,7 @@ exports[`snippet > 支持 c# 文件 region 1`] = `
 "\`\`\`cs | pure
 static void Main(string[] args)
 {
-  Console.WriteLine(\\"Hello dumi-plugin-code-snippets!\\");
+  Console.WriteLine(\\"Hello dumi-plugin-auto-api!\\");
 }
 \`\`\`
 "
@@ -155,7 +155,7 @@ exports[`snippet > 没有正确导入时返回原始内容 1`] = `
 "## test
 
 \`\`\`ts
-console.log('Hello dumi-plugin-code-snippets!');
+console.log('Hello dumi-plugin-auto-api!');
 \`\`\`
 
 > > ./say-hi.ts

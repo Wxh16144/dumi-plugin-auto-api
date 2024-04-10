@@ -6,10 +6,10 @@ const isProd = process.env.NODE_ENV === 'production';
 // 不是预览模式 同时是生产环境
 const isProdSite = process.env.PREVIEW !== '1' && isProd;
 
-const githubRepoName = 'dumi-plugin-code-snippets';
+const githubRepoName = 'dumi-plugin-auto-api';
 
 export default defineConfig({
-  plugins: ['dumi-plugin-code-snippets'],
+  plugins: ['dumi-plugin-auto-api'],
 
   themeConfig: {
     name: 'code-snippets',

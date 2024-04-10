@@ -1,17 +1,17 @@
 {
-  "name": "dumi-plugin-code-snippets",
+  "name": "dumi-plugin-auto-api",
   "version": "1.1.0",
   "description": "Dumi Plugin - Import code snippets from existing files",
   "keywords": [
     "dumi"
   ],
-  "homepage": "https://github.com/Wxh16144/dumi-plugin-code-snippets#readme",
+  "homepage": "https://github.com/Wxh16144/dumi-plugin-auto-api#readme",
   "bugs": {
-    "url": "https://github.com/Wxh16144/dumi-plugin-code-snippets/issues/new"
+    "url": "https://github.com/Wxh16144/dumi-plugin-auto-api/issues/new"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Wxh16144/dumi-plugin-code-snippets.git"
+    "url": "https://github.com/Wxh16144/dumi-plugin-auto-api.git"
   },
   "license": "MIT",
   "author": "Wxh16144(wxh1220@gmail.com)",

@@ -8,7 +8,9 @@
     "start": "npm run dev"
   },
   "devDependencies": {
+    "@types/react": "^18",
     "dumi": "^2",
-    "dumi-plugin-code-snippets": "workspace:*"
+    "dumi-plugin-auto-api": "workspace:*",
+    "react": "^18"
   }
 }

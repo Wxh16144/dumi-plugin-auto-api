@@ -1,3 +1,0 @@
-<<< @/docs/snippets/alias.txt
-
-'@': 'dumi-plugin-code-snippets/playground'

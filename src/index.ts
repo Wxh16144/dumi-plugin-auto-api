@@ -26,4 +26,8 @@ export default (api: IApi) => {
       return memo;
     },
   });
+
+  api.onStart(() => {
+    console.log('Welcome use dumi-plugin-auto-api');
+  });
 };

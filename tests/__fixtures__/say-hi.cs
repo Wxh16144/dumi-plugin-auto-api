@@ -7,7 +7,7 @@ namespace HelloWorld
     // #region main
     static void Main(string[] args)
     {
-      Console.WriteLine("Hello dumi-plugin-code-snippets!");
+      Console.WriteLine("Hello dumi-plugin-auto-api!");
     }
     // #endregion main
   }
